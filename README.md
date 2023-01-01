@@ -42,4 +42,4 @@
   <hr  width="50%"/>
   </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket-Ugale&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sanket-Ugale"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanket-Ugale&show_icons=true&locale=en&layout=compact" alt="Sanket-Ugale"/>
