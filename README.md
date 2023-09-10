@@ -12,7 +12,7 @@
 
 💼 Skills: Leadership & Project Management, driving teams to success. 🌟
 
-💻 Proficient in Python, Dart, and JavaScript - the languages of innovation. 🚀
+💻 Proficient in Python, PHP, Dart, and JavaScript - the languages of innovation. 🚀
 
 📱 Frameworks: Flutter for captivating mobile UIs, Django & Django Rest Framework for reliable backends.
 
