@@ -1,18 +1,34 @@
 ![logo](https://raw.githubusercontent.com/Sanket-Ugale/Sanket-Ugale/main/Sanket_banner.jpg)
 <h1 align="center">Hi 👋, I'm Sanket Ugale</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<!-- <h3 align="center">A passionate Flutter developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanket-Ugale&label=Profile%20views&color=0e75b6&style=flat" alt="Sanket-Ugale" /> </p>
 
-- 🌱 I’m currently learning **Flutter & Django**
+🎓 Computer Engineering Student | 💡 Backend and Mobile App Developer | 🌐 Web3 Enthusiast
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sanket-Ugale](https://github.com/Sanket-Ugale)
+🔥 Passionate about building scalable, efficient mobile applications and robust backends.
 
-- 💬 Ask me about **PHP**
+📚 Studying Computer Engineering to transform my tech ambitions into reality. 🧠
 
-- 📫 How to reach me **sanketugale683@outlook.com**
+💼 Skills: Leadership & Project Management, driving teams to success. 🌟
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sanketugale/](https://www.linkedin.com/in/sanketugale/)
+💻 Proficient in Python, Dart, and JavaScript - the languages of innovation. 🚀
+
+📱 Frameworks: Flutter for captivating mobile UIs, Django & Django Rest Framework for reliable backends.
+
+📊 Databases: MySQL, MongoDB, SQLite, Firebase - where data meets insights.
+
+☁️ Cloud Storage: AWS, securely storing digital creations.
+
+🔗 Version Control: Git and GitHub for seamless collaboration and code management.
+
+🛠️ Tools: Postman for testing and refining projects.
+
+🌐 Web: HTML, CSS, Bootstrap, React - crafting engaging web experiences.
+
+🌟 Web3: Solidity, Smart Contract Creation, and Deployment - exploring the decentralized frontier.
+
+Join me on this exciting journey of tech innovation, and let's create the future together! 🌐
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
