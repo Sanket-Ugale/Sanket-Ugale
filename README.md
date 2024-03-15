@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanket-Ugale&label=Profile%20views&color=0e75b6&style=flat" alt="Sanket-Ugale" /> </p>
 
-🎓 Computer Engineering Student | 💡 Backend and Mobile App Developer | 🌐 Web3 Enthusiast | 3x Hackathon winner | Rajasthan Police Hackathon 1.0 Finalist
+🎓 Computer Engineering Student | 💡 Backend and Mobile App Developer | 🌐 Web3 Enthusiast | 🏆 3x Hackathon winner | 🚔 Rajasthan Police Hackathon 1.0 Finalist
 
 🔥 Passionate about building scalable, efficient mobile applications and robust backends.
 
