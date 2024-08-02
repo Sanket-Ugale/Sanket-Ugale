@@ -12,11 +12,11 @@
 
 💼 Skills: Leadership & Project Management, driving teams to success. 🌟
 
-💻 Proficient in Python, PHP, Dart, and JavaScript - the languages of innovation. 🚀
+💻 Proficient in Python, Golang, PHP, Dart, and JavaScript - the languages of innovation. 🚀
 
 📱 Frameworks: Flutter for captivating mobile UIs, Django & Django Rest Framework for reliable backends.
 
-📊 Databases: MySQL, MongoDB, SQLite, Firebase - where data meets insights.
+📊 Databases: PostgreSQL, MySQL, MongoDB, SQLite, Firebase - where data meets insights.
 
 ☁️ Cloud Storage: AWS, securely storing digital creations.
 
